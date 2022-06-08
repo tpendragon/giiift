@@ -27,6 +27,9 @@ less expensive/complicated.
 
 Perhaps we can implement Change Discovery on top of the git commit log?
 
+Or maybe we can do a broader Change Discovery for all repositories that have
+GIIIFt installed?
+
 Perhaps we can allow annotations in a separate file and provide rudimentary IIIF
 search?
 
