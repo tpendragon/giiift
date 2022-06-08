@@ -23,6 +23,12 @@ converting a git tree into a presentation manifest. Or maybe when a new commit
 is added it'll generate the manifest and commit it? Might be more reliable and
 less expensive/complicated.
 
+## Other Ideas
+
+Perhaps we can implement Change Discovery on top of the git commit log?
+
+Perhaps we can allow annotations in a separate file and provide rudimentary IIIF
+search?
 
 ## Useful References
 
